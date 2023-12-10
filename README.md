@@ -5,8 +5,8 @@ To experience a demonstration of this project, please visit the [DEMO LINK](http
 
 This educational endeavor was undertaken as part of a Frontend Development course to showcase and refine skills in the following areas:
 
-- Responsive web design
-- Layout implementation based on Figma designs
+- Responsive web design to ensure optimal viewing across various devices.
+- Layout implementation based on Figma designs for precision and visual fidelity.
 - Adoption of the BEM methodology for maintaining organized and scalable code.
 - Efficient utilization of the SASS preprocessor to streamline and enhance stylesheet development.
 
