@@ -5,6 +5,7 @@
 
   @include onTablet {
     background-image: url(/images/header-bg.png);
+    background-position: 50%;
   }
 
   &__content {
